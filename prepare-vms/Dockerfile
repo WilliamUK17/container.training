@@ -1,4 +1,4 @@
-FROM debian:bullseye-20230208
+FROM debian:bullseye-20240926
 MAINTAINER AJ Bowen <aj@soulshake.net>
 
 RUN apt-get update && apt-get install -y \
