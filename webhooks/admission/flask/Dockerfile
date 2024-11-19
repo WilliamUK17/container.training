@@ -1,2 +1,2 @@
-FROM python:3.12.0a5-slim
+FROM python:3.14.0a1-slim
 RUN pip install Flask IPython PyYAML
